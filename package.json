@@ -1,0 +1,20 @@
+{
+    "name": "expressdemo",
+    "version": "1.0.0",
+    "description": "this is package,json",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "express",
+        "mongodb"
+    ],
+    "author": "Kishori",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2",
+        "mongodb": "^2.2.33",
+        "nodemon": "^2.0.16"
+    }
+}
